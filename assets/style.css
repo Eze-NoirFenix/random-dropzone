@@ -43,6 +43,10 @@
     margin-top: 10px;
 }
 
+form {
+    display: inline-flex;
+}
+
 @media (min-width:320px)  {
     img {
         max-width: 100%;
